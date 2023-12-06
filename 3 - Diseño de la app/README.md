@@ -3,6 +3,9 @@
 En esta sección solo deberán recrear los diseños
 
 ## Colores utilizados
+
+Paleta de colores: https://colors.muz.li/palette/272643/ffffff/e3f6f5/bae8e8/c5deed
+
 ```xml
 <color name="colorPrimary">#1f306e</color>
 <color name="colorSecondary">#553772</color>
