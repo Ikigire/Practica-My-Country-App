@@ -4,7 +4,7 @@ En esta sección hablaremos de la estructura de proyecto a seguir y la cración 
 
 ## Dependencias necesarias para trabajar
 
-### Retrofit
+### Librearía para el consumo de servicios web (APIs) [Retrofit](https://square.github.io/retrofit/)
 
 
 ```c
@@ -14,7 +14,7 @@ En esta sección hablaremos de la estructura de proyecto a seguir y la cración 
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 ```
 
-### RxJava
+### Librería pára optimización de hilos [RxJava](https://github.com/ReactiveX/RxJava)
 
 ```c
     // Para RXJava
@@ -22,7 +22,7 @@ En esta sección hablaremos de la estructura de proyecto a seguir y la cración 
     implementation("io.reactivex.rxjava2:rxjava:2.1.7")
 ```
 
-### Glide
+### Librería [Glide](https://github.com/bumptech/glide) para carga de imágenes
 
 ```c
     // Para manejo de imágenes contenidas en servidor
