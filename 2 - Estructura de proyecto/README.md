@@ -3,11 +3,11 @@
 En esta sección hablaremos de la estructura de proyecto a seguir y la cración de recursos a utilizar
 
 ## Videos
-> [S2 - Creación de proyecto](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
+> [S2 - Creación de proyecto](https://1drv.ms/u/s!AvB-2ztiY9QqgpR2x8_KxgOAC1dPsQ?e=WNHLmR)
+[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpR2x8_KxgOAC1dPsQ?e=WNHLmR "Creación de proycto")
 
-> [S2 - Creación de recursos, activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
+> [S2 - Creación de recursos, activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpR3A4BcujabUB33mw?e=OLgU2U)
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpR3A4BcujabUB33mw?e=OLgU2U "Creación de proycto")
 
 
 ## Dependencias necesarias para trabajar
