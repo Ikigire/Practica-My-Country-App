@@ -38,3 +38,13 @@ Paleta de colores dispnible en: [Muzli Colors](https://colors.muz.li/palette/272
 ## Diseños de interfaz
 
 Para ver los diseños que tienen que ser recreados abre el archivo ["Diseños de interfaz gráfica para aplicación My Country App.pdf"](./Diseños%20de%20interfaz%20gráfica%20para%20aplicación%20My%20Country%20App.pdf) incluido en esta carpeta
+
+## Librerías para complementar el diseño
+
+Las siguientes librerias son necesarias para la correcta definición del elemento "fragment" en el activity_main, sin estas no funcionarán
+
+```c
+    // Dependencias para la navegación
+    implementation("androidx.navigation:navigation-fragment:2.7.5")
+    implementation("androidx.navigation:navigation-ui:2.7.5")
+```
