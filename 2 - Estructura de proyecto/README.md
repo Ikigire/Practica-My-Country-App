@@ -6,7 +6,7 @@ En esta sección hablaremos de la estructura de proyecto a seguir y la cración 
 > [S2 - Creación de proyecto](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
 [![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
 
-> [S2 - Creación de activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
+> [S2 - Creación de recursos, activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
 [![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
 
 
