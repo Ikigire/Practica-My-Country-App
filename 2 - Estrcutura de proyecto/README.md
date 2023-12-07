@@ -2,6 +2,16 @@
 
 En esta sección hablaremos de la estructura de proyecto a seguir y la cración de recursos a utilizar
 
+## Videos
+* [S2 - Creación de proyecto](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
+
+[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
+
+* [S2 - Creación de activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC)
+
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpRuAWSVPlq5Lvv6dg?e=1KuhBC "Creación de proycto")
+
+
 ## Dependencias necesarias para trabajar
 
 ### Librearía para el consumo de servicios web (APIs) [Retrofit](https://square.github.io/retrofit/)
@@ -28,3 +38,8 @@ En esta sección hablaremos de la estructura de proyecto a seguir y la cración 
     // Para manejo de imágenes contenidas en servidor
     implementation("com.github.bumptech.glide:glide:4.16.0")
 ```
+
+## Assets del proyecto
+
+* Utilizados para este proyecto [aquí](./assets/)
+* Si quieres buscar y utilizar tus propios recursos utiliza la web de [SVG Repo](https://www.svgrepo.com/)
