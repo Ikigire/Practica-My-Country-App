@@ -15,4 +15,4 @@ Dicha funcionalidad básica es que puedan mostrar algunos datos
 
 ### Video
 > [S5 - BuscarFragment](https://1drv.ms/u/s!AvB-2ztiY9QqgpUUP9g1Hty-Djq9Iw?e=urfDNw)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUUP9g1Hty-Djq9Iw?e=urfDNw "BuscarFragment")
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUUP9g1Hty-Djq9Iw?e=urfDNw "BuscarFragment")
