@@ -3,23 +3,23 @@
 En esta sección solo deberán recrear los diseños
 
 ## Videos
-> [S3 - Personalización de temas](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=iSSwgj)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=iSSwgj "Creación de proycto")
+> [S3 - Personalización de temas](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EQlml14sqNZOoqs5w3DD57wBaf_DtO9kORw0ZtAnqPA79w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nzbn2v)
+[![Creación de proyecto](./thumbnail1.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EQlml14sqNZOoqs5w3DD57wBaf_DtO9kORw0ZtAnqPA79w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nzbn2v "Creación de proycto")
 
-> [S3 - Creación de estilos para implementar en un futuro](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=5SEGPU)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=5SEGPU "Creación de proycto")
+> [S3 - Creación de estilos para implementar en un futuro](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EVGJQJvvH3ZOtcSPfKLTQqwB5bfIZEQ-3JPXfhOJ9_k6Eg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vjUDEI)
+[![Creación de proyecto](./thumbnail2.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EVGJQJvvH3ZOtcSPfKLTQqwB5bfIZEQ-3JPXfhOJ9_k6Eg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vjUDEI "Creación de proycto")
 
-> [S3 - Implementando los estilos](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=fNGtiz)
-[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=fNGtiz "Creación de proycto")
+> [S3 - Implementando los estilos](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ERSYD9N_Mh1At3TOghrnPFkBgbOSprs5xIQ30IYT9-pXuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RFh5BW)
+[![Creación de proyecto](./thumbnail3.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ERSYD9N_Mh1At3TOghrnPFkBgbOSprs5xIQ30IYT9-pXuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RFh5BW "Creación de proycto")
 
-> [S3 - Personalizando el view Spinner](https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=zGhP1I)
-[![Creación de proyecto](./thumbnail4.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=zGhP1I "Creación de proycto")
+> [S3 - Personalizando el view Spinner](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EcyVXd_BcFZNjedljawHdzsBJXuA3IJR74aplbqI8gI6JQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ML4rZI)
+[![Creación de proyecto](./thumbnail4.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EcyVXd_BcFZNjedljawHdzsBJXuA3IJR74aplbqI8gI6JQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ML4rZI "Creación de proycto")
 
-> [S3 - Creando layout personalizado para RecyclerView](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=sZgksB)
-[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=sZgksB "Creación de proycto")
+> [S3 - Creando layout personalizado para RecyclerView](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EeKHJFQPmLdBqRqh0o6wGMQBxh-30QQ5vk-vGnjOnKduKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g9FHyf)
+[![Creación de proyecto](./thumbnail5.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EeKHJFQPmLdBqRqh0o6wGMQBxh-30QQ5vk-vGnjOnKduKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g9FHyf "Creación de proycto")
 
-> [S3 - Dando estilo de tarjeta al layout](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=FRNPDb)
-[![Creación de proyecto](./thumbnail6.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=FRNPDb "Creación de proycto")
+> [S3 - Dando estilo de tarjeta al layout](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/Edt91kesZ9lDv_1mxMtP_oYBzj-M9Rvc5yLI5cqorfd-vQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D4AwTG)
+[![Creación de proyecto](./thumbnail6.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/Edt91kesZ9lDv_1mxMtP_oYBzj-M9Rvc5yLI5cqorfd-vQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D4AwTG "Creación de proycto")
 
 ## Colores utilizados
 
