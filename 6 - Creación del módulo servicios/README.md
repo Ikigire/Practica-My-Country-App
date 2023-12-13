@@ -5,16 +5,16 @@
 La Api a consumir será la api de [RestCountries](https://restcountries.com/) la cual es capaz de abastecer de información acerca de paises
 
 ### Video
-> [S6 - Presentación de la API a consumir](https://1drv.ms/u/s!AvB-2ztiY9QqgpUeVTKueS7SK45iDQ?e=V5SOgJ)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUeVTKueS7SK45iDQ?e=V5SOgJ "Presentación de la API a consumir")
+> [S6 - Presentación de la API a consumir](https://1drv.ms/u/s!AvB-2ztiY9QqgpUeVTKueS7SK45iDQ?e=8QF9Zs)
+[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUeVTKueS7SK45iDQ?e=8QF9Zs "Presentación de la API a consumir")
 
 ## La librería [Retrofit](https://square.github.io/retrofit/)
 
 Siempre que vayan a implementar una librería deben de asegurarse de leer la documentación oficial o por lo menos visitar o ver algún sitio o video acerca de la librería
 
 ### Video
-> [S6 - Librería Retrofit](https://1drv.ms/u/s!AvB-2ztiY9QqgpUfH7_gMVgB8-XJpg?e=DOWU9U)
-[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUfH7_gMVgB8-XJpg?e=DOWU9U "Librería Retrofit")
+> [S6 - Librería Retrofit](https://1drv.ms/u/s!AvB-2ztiY9QqgpUfH7_gMVgB8-XJpg?e=RvVUZJ)
+[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUfH7_gMVgB8-XJpg?e=RvVUZJ "Librería Retrofit")
 
 ## Definición de Modelos
 
@@ -23,8 +23,8 @@ Para asegurar que ustedes tengan accesso a la de finición de modelos deberán d
 Además deberán de acceder a la páginade [Quicktype](https://quicktype.io/) para obtener el código de manera fácil
 
 ### Video
-> [S6 - Creación de modelos](https://1drv.ms/u/s!AvB-2ztiY9QqgpUgrCO2Yea8yJHh3g?e=d894nh)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUgrCO2Yea8yJHh3g?e=d894nh "Creación de modelos")
+> [S6 - Creación de modelos](https://1drv.ms/u/s!AvB-2ztiY9QqgpUgrCO2Yea8yJHh3g?e=9Gj7HT)
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUgrCO2Yea8yJHh3g?e=9Gj7HT "Creación de modelos")
 
 
 ## Generando la interfaz para consumo de la API
@@ -37,8 +37,8 @@ Valor para los filtros:
 ```
 
 ### Video
-> [S6 - Definiendo interfaz API](https://1drv.ms/u/s!AvB-2ztiY9QqgpUhG19bITVhJd6xWg?e=S6s0wg)
-[![Creación de proyecto](./thumbnail4.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUhG19bITVhJd6xWg?e=S6s0wg "Definiendo interfaz API")
+> [S6 - Definiendo interfaz API](https://1drv.ms/u/s!AvB-2ztiY9QqgpUhG19bITVhJd6xWg?e=gTEGaX)
+[![Creación de proyecto](./thumbnail4.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUhG19bITVhJd6xWg?e=gTEGaX "Definiendo interfaz API")
 
 
 ## Creación del Cliente
@@ -51,12 +51,12 @@ Valor del BASE_URL:
 ```
 
 ### Video
-> [S6 - Creando el cliente de la API](https://1drv.ms/u/s!AvB-2ztiY9QqgpUjqf9PK3Tme26GRw?e=b0VR3b)
-[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUjqf9PK3Tme26GRw?e=b0VR3b "Creando el cliente de la API")
+> [S6 - Creando el cliente de la API](https://1drv.ms/u/s!AvB-2ztiY9QqgpUjqf9PK3Tme26GRw?e=iDZT3D)
+[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUjqf9PK3Tme26GRw?e=iDZT3D "Creando el cliente de la API")
 
 
 ## Complemento: Preparando la utilización de filtro "fields"
 
 ### Video
-> [S6 - Preparando la variable de los filtros](https://1drv.ms/u/s!AvB-2ztiY9QqgpUiZwJoiOW0ZnjJAg?e=ETqOYg)
-[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUiZwJoiOW0ZnjJAg?e=ETqOYg "Preparando la variable de los filtros")
+> [S6 - Preparando la variable de los filtros](https://1drv.ms/u/s!AvB-2ztiY9QqgpUiZwJoiOW0ZnjJAg?e=3nWTnV)
+[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUiZwJoiOW0ZnjJAg?e=3nWTnV "Preparando la variable de los filtros")

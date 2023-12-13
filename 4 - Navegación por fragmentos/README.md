@@ -3,14 +3,14 @@
 En esta sección habilitaremos la navegación a través del elemento mencionado
 
 ## Videos
-> [S4 - Creación del menu para navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=uhYuK7)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=uhYuK7 "Creación de proycto")
+> [S4 - Creación del menu para navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=aIzIqA)
+[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=aIzIqA "Creación de proycto")
 
-> [S4 - Creando componente de mavegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=93g2dO)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=93g2dO "Creación de proycto")
+> [S4 - Creando componente de mavegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=7lLrLs)
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=7lLrLs "Creación de proycto")
 
-> [S4 - Haciendo funcionar la navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=cVnSeA)
-[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=cVnSeA "Haciendo funcionar la navegación")
+> [S4 - Haciendo funcionar la navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=DgqYf6)
+[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=DgqYf6 "Haciendo funcionar la navegación")
 
 ## Menu items
 Estos son los menu items que tienen que crear para la navegación

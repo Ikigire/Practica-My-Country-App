@@ -3,23 +3,23 @@
 En esta sección solo deberán recrear los diseños
 
 ## Videos
-> [S3 - Personalización de temas](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=cNjJH6)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=cNjJH6 "Creación de proycto")
+> [S3 - Personalización de temas](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=iSSwgj)
+[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUByL89noSc98F-hw?e=iSSwgj "Creación de proycto")
 
-> [S3 - Creación de estilos para implementar en un futuro](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=YtGX5s)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=YtGX5s "Creación de proycto")
+> [S3 - Creación de estilos para implementar en un futuro](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=5SEGPU)
+[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUEofT75CcTRRSdIw?e=5SEGPU "Creación de proycto")
 
-> [S3 - Implementando los estilos](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=nIVcyb)
-[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=nIVcyb "Creación de proycto")
+> [S3 - Implementando los estilos](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=fNGtiz)
+[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUFXwfOcLMBRv-6kw?e=fNGtiz "Creación de proycto")
 
-> [S3 - Personalizando el view Spinner](https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=yyyjQi)
-[![Creación de proyecto](./thumbnail4.png)]https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=yyyjQi "Creación de proycto")
+> [S3 - Personalizando el view Spinner](https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=zGhP1I)
+[![Creación de proyecto](./thumbnail4.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUGQ1SuvO_coQOIqw?e=zGhP1I "Creación de proycto")
 
-> [S3 - Creando layout personalizado para RecyclerView](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=gwWZ0U)
-[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=gwWZ0U "Creación de proycto")
+> [S3 - Creando layout personalizado para RecyclerView](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=sZgksB)
+[![Creación de proyecto](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUHeTWj9ze2hS6uHw?e=sZgksB "Creación de proycto")
 
-> [S3 - Dando estilo de tarjeta al layout](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=zOH77K)
-[![Creación de proyecto](./thumbnail6.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=zOH77K "Creación de proycto")
+> [S3 - Dando estilo de tarjeta al layout](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=FRNPDb)
+[![Creación de proyecto](./thumbnail6.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUIpeYWWrpQIlfwNw?e=FRNPDb "Creación de proycto")
 
 ## Colores utilizados
 
