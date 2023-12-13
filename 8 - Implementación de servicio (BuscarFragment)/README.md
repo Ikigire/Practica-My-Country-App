@@ -3,6 +3,6 @@
 Implementando el servicio de RestCountries para buscar infromación de paises por coincidencia de nombre
 
 ## Video
-> [S7 - Poniendo a chambear bien al BuscarFragment](https://1drv.ms/u/s!AvB-2ztiY9QqgpU0Scf_DqJ7UOnexg?e=77nLve)
-[![Animando la tarjeta de País](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpU0Scf_DqJ7UOnexg?e=77nLve "Poniendo a chambear bien al BuscarFragment")
+> [S7 - Poniendo a chambear bien al BuscarFragment](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EQEod_0vujBBvGhYMrFPKi0BBrVMYPXtJmbRxJQBoT6ORA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1n1jpX)
+[![Animando la tarjeta de País](./thumbnail1.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EQEod_0vujBBvGhYMrFPKi0BBrVMYPXtJmbRxJQBoT6ORA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1n1jpX "Poniendo a chambear bien al BuscarFragment")
 

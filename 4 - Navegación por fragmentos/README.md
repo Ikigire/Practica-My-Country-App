@@ -3,14 +3,14 @@
 En esta sección habilitaremos la navegación a través del elemento mencionado
 
 ## Videos
-> [S4 - Creación del menu para navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=aIzIqA)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUNPkxvSzbCHPgZCw?e=aIzIqA "Creación de proycto")
+> [S4 - Creación del menu para navegación](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ERVO90u_GYpNi6r10heexZ0B8QEmy03te27iGEH6tZD0vA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yftwi2)
+[![Creación de proyecto](./thumbnail1.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ERVO90u_GYpNi6r10heexZ0B8QEmy03te27iGEH6tZD0vA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yftwi2 "Creación de proycto")
 
-> [S4 - Creando componente de mavegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=7lLrLs)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUO8KQvQZLrN3Mn3Q?e=7lLrLs "Creación de proycto")
+> [S4 - Creando componente de mavegación](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EXKdlA-K8ApCiICw3pXkYnwBKIR5NAPL23U4gIEv6r3Vig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jxNovh)
+[![Creación de proyecto](./thumbnail2.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EXKdlA-K8ApCiICw3pXkYnwBKIR5NAPL23U4gIEv6r3Vig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jxNovh "Creación de proycto")
 
-> [S4 - Haciendo funcionar la navegación](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=DgqYf6)
-[![Creación de proyecto](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUPtxOGXBLAJ_eW8A?e=DgqYf6 "Haciendo funcionar la navegación")
+> [S4 - Haciendo funcionar la navegación](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EUnXRhIq-tNFrnBXk_unvpwBX43F-2rgSkOwt-FBos8LjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sqZblF)
+[![Creación de proyecto](./thumbnail3.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EUnXRhIq-tNFrnBXk_unvpwBX43F-2rgSkOwt-FBos8LjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sqZblF "Haciendo funcionar la navegación")
 
 ## Menu items
 Estos son los menu items que tienen que crear para la navegación

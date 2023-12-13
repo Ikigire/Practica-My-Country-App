@@ -5,20 +5,20 @@ Implementando el servicio de RestCountries para obtener infromación de paises p
 ## Preparando el Adaptador para  el RecyclerView
 
 ### Video
-> [S7 - Creando clases PaisViewHolder y PaisAdapter](https://1drv.ms/u/s!AvB-2ztiY9QqgpUr2KS0jUANzj8iYQ?e=XcTRc0)
-[![Creando clases PaisViewHolder y PaisAdapter](./thumbnail6.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUr2KS0jUANzj8iYQ?e=XcTRc0 "Creando clases PaisViewHolder y PaisAdapter")
+> [S7 - Creando clases PaisViewHolder y PaisAdapter](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/Eemsh5QBut1Ohl6f4BT5yBgB0RftgKhC2kpaTe6i3nL_Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GpQTuy)
+[![Creando clases PaisViewHolder y PaisAdapter](./thumbnail6.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/Eemsh5QBut1Ohl6f4BT5yBgB0RftgKhC2kpaTe6i3nL_Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GpQTuy "Creando clases PaisViewHolder y PaisAdapter")
 
 ## Creando los objetos necesarios para trabajar
 
 ### Video
-> [S7 - Definición de objetos e inicialización](https://1drv.ms/u/s!AvB-2ztiY9QqgpUs170LLfwuN6b-oQ?e=tnz0fh)
-[![Definición de objetos e inicialización](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUs170LLfwuN6b-oQ?e=tnz0fh "Definición de objetos e inicialización")
+> [S7 - Definición de objetos e inicialización](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EaSj84oxXfRDpLj91kTUB7sBpq2IsQw4yZPaWqWuZhXa1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZbMKnf)
+[![Definición de objetos e inicialización](./thumbnail1.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EaSj84oxXfRDpLj91kTUB7sBpq2IsQw4yZPaWqWuZhXa1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZbMKnf "Definición de objetos e inicialización")
 
 ## Solicitando la información a la Api
 
 ### Video
-> [S7 - Método para traer información de la API](https://1drv.ms/u/s!AvB-2ztiY9QqgpUtbqD38cLrZRerOw?e=nPbbge)
-[![Método para traer información de la API](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUtbqD38cLrZRerOw?e=nPbbge "Método para traer información de la API")
+> [S7 - Método para traer información de la API](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ER04rsdweUdAvCY8ZXgqc1UBafexviRt2npoVYe860ZcVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BExZ6N)
+[![Método para traer información de la API](./thumbnail2.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ER04rsdweUdAvCY8ZXgqc1UBafexviRt2npoVYe860ZcVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BExZ6N "Método para traer información de la API")
 
 ## Mandando la información al RecyclerView
 
@@ -28,8 +28,8 @@ Para hacer esto es neceario un permiso que se tiene que declarar en el archivo "
 ```
 
 ### Video
-> [S7 - Creando el adaptador del RecyclerView y limpiando la basura](https://1drv.ms/u/s!AvB-2ztiY9QqgpUultW_w4JmKrngnA?e=7HxsA0)
-[![Creando el adaptador del RecyclerView](./thumbnail3.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUultW_w4JmKrngnA?e=7HxsA0 "Creando el adaptador del RecyclerView")
+> [S7 - Creando el adaptador del RecyclerView y limpiando la basura](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EZ_FSyIQbFRHrka2sWaT1C4B0aIh69okLRoucXi5PSkkyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vBAG5q)
+[![Creando el adaptador del RecyclerView](./thumbnail3.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EZ_FSyIQbFRHrka2sWaT1C4B0aIh69okLRoucXi5PSkkyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vBAG5q "Creando el adaptador del RecyclerView")
 
 
 ## Añadiendo animación al country_recycler_item_layout
@@ -59,12 +59,12 @@ Código de la animación:
 ```
 
 ### Video
-> [S7 - Animando la tarjeta de País](https://1drv.ms/u/s!AvB-2ztiY9QqgpUwegXKjoMMHSZTcg?e=L3A6L1)
-[![Animando la tarjeta de País](./thumbnail5.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUwegXKjoMMHSZTcg?e=L3A6L1 "Animando la tarjeta de País")
+> [S7 - Animando la tarjeta de País](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ETt06z1vIsxFsiTCtjxYAZkBlVFIoBS9xgStfx6M2NbHcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vgy0m9)
+[![Animando la tarjeta de País](./thumbnail5.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ETt06z1vIsxFsiTCtjxYAZkBlVFIoBS9xgStfx6M2NbHcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vgy0m9 "Animando la tarjeta de País")
 
 ## Haciendo funcionar el floating action button
 
 ### Video
-> [S7 - Animando la tarjeta de País](https://1drv.ms/u/s!AvB-2ztiY9QqgpUxk7OQO14awQbtkQ?e=4pIPbD)
-[![Animando la tarjeta de País](./thumbnail7.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpUxk7OQO14awQbtkQ?e=4pIPbD "Animando la tarjeta de País")
+> [S7 - Animando la tarjeta de País](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ETt06z1vIsxFsiTCtjxYAZkBlVFIoBS9xgStfx6M2NbHcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vgy0m9)
+[![Animando la tarjeta de País](./thumbnail7.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/ETt06z1vIsxFsiTCtjxYAZkBlVFIoBS9xgStfx6M2NbHcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vgy0m9 "Animando la tarjeta de País")
 

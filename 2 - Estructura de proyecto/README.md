@@ -3,11 +3,11 @@
 En esta sección hablaremos de la estructura de proyecto a seguir y la cración de recursos a utilizar
 
 ## Videos
-> [S2 - Creación de proyecto](https://1drv.ms/u/s!AvB-2ztiY9QqgpR2x8_KxgOAC1dPsQ?e=sW5nt5)
-[![Creación de proyecto](./thumbnail1.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpR2x8_KxgOAC1dPsQ?e=sW5nt5 "Creación de proycto")
+> [S2 - Creación de proyecto](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EfxwQtOSzFpCmRq1O5vdzHwBydCLdA9ePzMAdMJCUQX7OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jUgqUj)
+[![Creación de proyecto](./thumbnail1.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EfxwQtOSzFpCmRq1O5vdzHwBydCLdA9ePzMAdMJCUQX7OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jUgqUj "Creación de proycto")
 
-> [S2 - Creación de recursos, activities y fragments](https://1drv.ms/u/s!AvB-2ztiY9QqgpR3A4BcujabUB33mw?e=OnB4ve)
-[![Creación de proyecto](./thumbnail2.png)](https://1drv.ms/u/s!AvB-2ztiY9QqgpR3A4BcujabUB33mw?e=OnB4ve "Creación de proycto")
+> [S2 - Creación de recursos, activities y fragments](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EW_XErOG5RBEop_YI_q6iD4BBw2nRNTe_NpGevF4H4XvGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DgB6Zk)
+[![Creación de proyecto](./thumbnail2.png)](https://itcgedu-my.sharepoint.com/:v:/g/personal/m21290940_cdguzman_tecnm_mx/EW_XErOG5RBEop_YI_q6iD4BBw2nRNTe_NpGevF4H4XvGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DgB6Zk "Creación de proycto")
 
 
 ## Dependencias necesarias para trabajar
